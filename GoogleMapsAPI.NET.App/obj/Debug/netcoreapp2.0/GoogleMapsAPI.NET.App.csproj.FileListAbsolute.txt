@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.App\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.App.pdb

@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\bin\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\GoogleMapsAPI.NET\GoogleMapsAPI.NET.Tests\obj\Debug\netcoreapp2.0\GoogleMapsAPI.NET.Tests.csproj.GenerateResource.Cache
